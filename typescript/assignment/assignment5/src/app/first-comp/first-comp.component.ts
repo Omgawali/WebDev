@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./first-comp.component.css']
 })
 export class FirstCompComponent {
-
+public Message="Hello Child Component";
 }
